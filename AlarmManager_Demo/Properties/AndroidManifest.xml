@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="AlarmManager.Demo">
+	<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="14" />
+	<application android:label="AlarmManager_Demo"></application>
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+</manifest>

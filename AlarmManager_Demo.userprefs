@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlarmManager_Demo\MainActivity.cs">
+    <Files>
+      <File FileName="AlarmManager_Demo\MainActivity.cs" Line="19" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\MMF\MMF.Services\PracticeCardsService.cs" line="70" offsetX="886" offsetY="1104" expression="pCards" liveUpdate="False" />
+    <Watch file="..\MMF\MMF.Android\SettingsActivity.cs" line="181" offsetX="634" offsetY="2832" expression="ReminderSetting_Old" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AlarmManager__Demo AndroidDeviceId-Debug="0123456789ABCDEF" MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
